@@ -1,8 +1,13 @@
 {
-  "name": "green-programmer",
-  "displayName": "green programmer",
-  "description": "Green Theme",
+  "name": "colored-programmer",
+  "displayName": "Colored Programmer",
+  "description": "Programmers like colors",
   "version": "0.0.1",
+  "publisher": "maltarouti",
+  "icon":"icon.png",
+  "sponsor": {
+    "url": "https://github.com/sponsors/maltarouti"
+  },
   "engines": {
     "vscode": "^1.99.0"
   },
@@ -14,7 +19,7 @@
       {
         "label": "Green Programmer",
         "uiTheme": "vs-dark",
-        "path": "./themes/Green Programmer-color-theme.json"
+        "path": "./themes/green-programmer.json"
       }
     ]
   }
