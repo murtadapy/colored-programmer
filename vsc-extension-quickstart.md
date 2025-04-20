@@ -1,4 +1,0 @@
-# Colored Programmer
-
-## Preview
-...
