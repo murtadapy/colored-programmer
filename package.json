@@ -5,6 +5,9 @@
   "version": "1.0.4",
   "publisher": "maltarouti",
   "icon":"icon.png",
+  "repository": {
+    "url": "https://github.com/murtadapy/colored-programmer"
+  },
   "sponsor": {
     "url": "https://github.com/sponsors/maltarouti"
   },
